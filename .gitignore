@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.ruff_cache/
+# Personal data lives in ~/PhoneService, never in this folder.
