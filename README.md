@@ -24,8 +24,8 @@ its own without stopping the rest.
 ## Quick start
 
 ```sh
-git clone https://github.com/<you>/phone-service.git
-cd phone-service
+git clone https://github.com/viewingstudio/iphone-housekeeping.git
+cd iphone-housekeeping
 uv run phone_service.py report
 ```
 
